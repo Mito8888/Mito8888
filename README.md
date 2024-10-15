@@ -1,4 +1,4 @@
-<!---
+
 - 👋 Hi there
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,13 +6,13 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---->
+
 
 <!---
 Mito8888/Mito8888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!--
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -52,3 +52,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ###
+-->
