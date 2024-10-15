@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Previous Project:
+
+⚡ Previous Project:
 
 https://github.com/Oscarnyo/cyberbot-robot
 
