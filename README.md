@@ -6,6 +6,10 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 -->
+👋 Hi there
+
+👀 Study at UOW Malaysia
+
 🌱 my another profile (Personal Project): 
 
 https://github.com/tenshi142
