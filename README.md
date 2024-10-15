@@ -6,7 +6,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 
-⚡ Previous Project:
+⚡ Team Project:
 
 https://github.com/Oscarnyo/cyberbot-robot
 
