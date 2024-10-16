@@ -6,8 +6,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 --> 
-👋 Hi there
-<!-- Here's my collection of team project and my school assignments -->
+👋 Hi there, Here's my collection of team project <!-- and my school assignments -->
+
 👀 Study at UOW Malaysia
 
 🌱 my another profile (Personal Project): 
