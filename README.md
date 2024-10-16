@@ -1,13 +1,13 @@
 <!--
-- 👋 Hi there
+- 👋 Hi there, 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
--->
+--> 
 👋 Hi there
-
+<!-- Here's my collection of team project and my school assignments -->
 👀 Study at UOW Malaysia
 
 🌱 my another profile (Personal Project): 
